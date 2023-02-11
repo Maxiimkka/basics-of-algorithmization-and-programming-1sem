@@ -1,0 +1,5 @@
+﻿  Source.cpp
+M:\оаип\лаба 5\5.for\Source.cpp(8,28): warning C4305: инициализация: усечение из "double" в "float"
+M:\оаип\лаба 5\5.for\Source.cpp(12,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+M:\оаип\лаба 5\5.for\Source.cpp(13,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  5.for.vcxproj -> M:\оаип\лаба 5\5.for\Debug\5.for.exe

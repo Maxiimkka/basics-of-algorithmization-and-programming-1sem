@@ -1,0 +1,4 @@
+﻿  Source.cpp
+M:\оаип\лаба 5\доп2\Source.cpp(5,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+M:\оаип\лаба 5\доп2\Source.cpp(11,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  доп2.vcxproj -> M:\оаип\лаба 5\доп2\Debug\доп2.exe
