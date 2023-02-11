@@ -1,0 +1,4 @@
+﻿  Main.cpp
+M:\Новая папка\Downloads\Project2\Main.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+M:\Новая папка\Downloads\Project2\Main.cpp(14,10): warning C4476: "printf": неизвестный символ поля типа ":" в описателе формата
+M:\Новая папка\Downloads\Project2\Main.cpp(25,45): error C2065: i: необъявленный идентификатор
