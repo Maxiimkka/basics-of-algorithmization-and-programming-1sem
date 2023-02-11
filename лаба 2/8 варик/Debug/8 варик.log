@@ -1,0 +1,3 @@
+﻿  Main.cpp
+M:\Новая папка\Downloads\8 варик\Main.cpp(3,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  8 варик.vcxproj -> M:\Новая папка\Downloads\8 варик\Debug\8 варик.exe
