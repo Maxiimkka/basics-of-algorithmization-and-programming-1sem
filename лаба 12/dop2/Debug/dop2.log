@@ -1,0 +1,4 @@
+﻿  Source.cpp
+M:\оаип\лаба 12\dop2\Source.cpp(12,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+M:\оаип\лаба 12\dop2\Source.cpp(22,23): warning C4018: <: несоответствие типов со знаком и без знака
+  dop2.vcxproj -> M:\оаип\лаба 12\dop2\Debug\dop2.exe
